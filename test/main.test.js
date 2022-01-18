@@ -1,4 +1,3 @@
-// waldo.mendoza@mojix.com
 // 1.
 // Input: abc
 // Output: abc
